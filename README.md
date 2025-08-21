@@ -1,5 +1,9 @@
 # GBF Artifact List Tool
 
+本ツールはGitHubにて公開されています。GBF（グランブルーファンタジー）のアーティファクトデータを取得・CSV変換するPythonツールです。
+
+このリポジトリには、データ取得・変換スクリプト、セットアップ・使い方の説明に加え、サンプルデータ（`sampledata/gbf_artifacts_raw.json`, `sampledata/gbf_artifacts_raw.csv`）が含まれています。サンプルデータは動作確認やCSVフォーマットの参考にご利用ください。
+
 ## 概要
 グランブルーファンタジー（GBF）のアーティファクト情報をChromeのデバッグセッション経由で取得し、JSON/CSV形式で保存するツールです。
 
